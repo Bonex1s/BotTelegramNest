@@ -36,7 +36,7 @@ $ pnpm install
 
 ```bash
 # development
-$ pnpm run start
+$ pnpm start
 
 # watch mode
 $ pnpm run start:dev
